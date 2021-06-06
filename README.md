@@ -1,7 +1,7 @@
 # Go DelayedQueue
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/kerkerj/delayedqueue.svg)](https://pkg.go.dev/github.com/kerkerj/delayedqueue)
-[![Actions Status](https://github.com/kerkerj/delayedqueue/actions/workflows/github-actions.yml/badge.svg)](https://github.com/kerkerj/delayedqueue/actions)
+[![Actions Status](https://github.com/kerkerj/delayedqueue/actions/workflows/go.yml/badge.svg)](https://github.com/kerkerj/delayedqueue/actions)
 [![codecov](https://codecov.io/gh/kerkerj/delayedqueue/branch/main/graph/badge.svg?token=TNGTIT7KER)](https://codecov.io/gh/kerkerj/delayedqueue)
 
 Delayed queue with Redis implementation 

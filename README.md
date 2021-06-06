@@ -44,3 +44,4 @@ Workflow Chart:
 Chart created by: https://asciiflow.com/
 ```
 
+Example is in [example](https://github.com/kerkerj/delayedqueue/tree/main/example) folder.
